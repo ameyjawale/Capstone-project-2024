@@ -2,6 +2,7 @@
 Made for Winter Consulting IIT G 
 (can be treated as a case study)
 It contains sales insights and possible sugessions using data driven outcomes for EcomVista
+
 **Background**
 
  EcomVista is a growing e-commerce company specializing in consumer electronics, apparel,
